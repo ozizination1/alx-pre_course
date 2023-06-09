@@ -1,3 +1,3 @@
-My first readme 
+This is my first readme file, 
 i am also collaborating with someone on this project
-im loving this journey
+i am loving this journey
